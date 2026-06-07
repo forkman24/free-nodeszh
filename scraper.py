@@ -32,7 +32,12 @@ SOURCE_URLS = [
     "https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/splitted/vmess.txt",
     "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/V2Ray-Config-By-EbraSha-All-Type.txt",
     "https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/splitted/trojan.txt",
-    "https://gt.1155555.xyz/https://raw.githubusercontent.com/shaoyouvip/free/refs/heads/main/base64.txt" 
+    "https://gt.1155555.xyz/https://raw.githubusercontent.com/shaoyouvip/free/refs/heads/main/base64.txt", 
+    "https://raw.githubusercontent.com/ripaojiedian/freenode/refs/heads/main/sub",
+    "https://raw.githubusercontent.com/xiaoji235/airport-free/refs/heads/main/v2ray.txt",
+    "https://raw.githubusercontent.com/peasoft/NoMoreWalls/refs/heads/master/list.txt",
+    "https://raw.githubusercontent.com/mahdibland/V2RayAggregator/refs/heads/master/EternityBase",
+    "https://raw.githubusercontent.com/qhq/FreeProxiesScraper/refs/heads/main/Eternity"
 ]
 
 # 3. 垃圾节点过滤黑名单（可自行添加别人节点里的广告词过滤掉）
